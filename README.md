@@ -1,4 +1,4 @@
-## VashtiGambol
+## Vashti Gambol
 ## January 17th,2026
 # New Project Planning for
 
