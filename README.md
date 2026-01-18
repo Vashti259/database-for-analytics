@@ -1,9 +1,6 @@
 ## Vashti Gambol
 ## January 17th,2026
-# New Project Planning for
-
-# databases-for-analytics
-
+#  New Project Planning for
 > Professional Databases for Analytics Project.
 
 ## Project Planning
