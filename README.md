@@ -1,9 +1,9 @@
 ## Vashti Gambol
 ## January 17th,2026
-#  New Project Planning for
-> Professional Databases for Analytics Project.
+# New Project Planning for a
+# Professional Databases for Analytics Project.
 
-## Project Planning
+## Project Instructions: 
 
 Use this repository to present, document, and reflect on database-related analytics work as the course evolves.
 
