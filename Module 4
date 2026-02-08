@@ -1,0 +1,14 @@
+#  Visualization Data with Python
+## Module 4
+## Vasht Gambol
+## Database for Analytics
+### We will be using the World Database
+###  The tools that will be used PostgreSQL, SQL, Python, Conda, Jupyter Notebooks
+
+# Explanation:
+### Preparing Python environinment in VScode by downloading the tools necessary:
+### Pandas, Matplotlib, Jupyter Notebook, Conda, PostgresSQL, SQL  and Python
+
+# Import the World Database, befor that we would nweed to connect mymysql througha secure connection password:
+
+Screen Shot
